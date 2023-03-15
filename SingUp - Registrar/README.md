@@ -1,18 +1,22 @@
+The creation of a Web Design Developer portfolio is a fantastic way to showcase your work and the skills you've acquired through time.
 
-# Sign Up Form
+Therefore I decided it was necessary to create an online portfolio where I could showcase my projects and work.
 
-Sign Up page using HTML and CSS.<br />
-This project was made for a youtube tutorial.<br /><br/>
-**Youtube link: https://youtu.be/jAr98quOZMY**
-### Web Version
-<img src="assets/final.png" alt="Web Version"/>
 
-### Mobile Version
-<img src="assets/final-mobile.png" alt="Mobile Version"/>
+I used the following design tools to create this page: HTML and CSS.
 
-## 🚀 Starting
+These tools allowed me to create a webpage with interesting resources, such as a user registration form.
 
-To start the project, just open the file `index.html` in your preferred browser.
+The form asks for information like a name, email address, and password in order to register, as well as an additional requirement that the user register with Google, Facebook, and Linkedin.
 
----
-##### Coded with love by Giovanna Moeller ♥️
+
+In addition, the registration page is responsive so that it may be accessed on any device.
+
+This indicates that users can access the form. 
+
+register anywhere, whether on a computer, tablet, or smartphone.
+
+
+By the creation of this application page, I hope to have the chance to showcase my work and my design skills.
+
+I'm eager to hear potential clients' opinions and learn about opportunities to advance my projects. 
